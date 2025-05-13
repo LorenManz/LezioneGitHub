@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+joblib
+scikit-learn
+openpyxl
+xlsxwriter
+datetime
